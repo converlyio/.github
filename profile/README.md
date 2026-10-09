@@ -29,6 +29,7 @@ Converly sends conversions to your ad platforms and analytics tools when someone
 - **[converly-mcp](https://github.com/converlyio/converly-mcp).** An MCP server that lets your AI assistant set up server-side conversion tracking.
 - **[converly-cli](https://github.com/converlyio/converly-cli).** Set up server-side Google Ads, Meta and GA4 tracking from your terminal.
 - **[converly-agent](https://github.com/converlyio/converly-agent).** An agent skill that drives the CLI to set up form to ad platform tracking.
+- **[converly-sdk-node](https://github.com/converlyio/converly-sdk-node).** Report conversions your backend confirms, like SaaS signups, straight from your Node code.
 
 Everything else is in the [developer docs](https://developers.converly.io).
 
